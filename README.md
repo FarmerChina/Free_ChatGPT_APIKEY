@@ -8,21 +8,21 @@
 ### 省心：没有包月，没有会员，没有限时，用多少买多少，不用担心过期。
 
 ## 支持AI模型有:
-### gpt-4
-### gpt-4-0314
-### gpt-4-0613
-### gpt-4-32k
-### gpt-4-32k-0314
-### gpt-4-32k-0613
-### gpt-3.5-turbo
-### gpt-3.5-turbo-0301
-### gpt-3.5-turbo-0613
-### gpt-3.5-turbo-16k
-### gpt-3.5-turbo-16k-0613
-### text-embedding-ada-002 等所有3.5模型
-### 支持DALL-E图片生成
-### claude-2-100k
-### claude-instant
+#### gpt-4
+#### gpt-4-0314
+#### gpt-4-0613
+#### gpt-4-32k
+#### gpt-4-32k-0314
+#### gpt-4-32k-0613
+#### gpt-3.5-turbo
+#### gpt-3.5-turbo-0301
+#### gpt-3.5-turbo-0613
+#### gpt-3.5-turbo-16k
+#### gpt-3.5-turbo-16k-0613
+#### text-embedding-ada-002 等所有3.5模型
+#### 支持DALL-E图片生成
+#### claude-2-100k
+#### claude-instant
 
 ## APIKEY 相关地址
 
@@ -45,8 +45,9 @@
 ## 当然也可以通过以下方式联系我们：
 
 ### 1、邮箱：ngt@huinong.co
-### 2、微信：ningjinming1956
-### 3、Telegram：@gptechai
-### 4、<a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">https://wp.huinong.co/index.php/abut_me/</a>二维码
+### 2、微信：ningjinming1956 
+### 3、Telegram：<a href="https://t.me/gptechai" target="_blank">https://t.me/gptechai</a>
+### 4、Telegram Group: <a href="https://t.me/gptechai_china" target="_blank">https://t.me/gptechai_china</a>
+### 5、<a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">https://wp.huinong.co/index.php/abut_me/</a>二维码
 
 ### 如果您有任何问题或需要进一步的帮助，请随时联系我们。
